@@ -48,17 +48,6 @@ a:visited {
 }
 
 h1 {
-    font-family: Sublime;
+    font-family: "Lucida Console", Monaco, monospace;
     font-size: 100px;
-}
-
-h1.em {
-    font-family: Sublime-MediumItalic;
-    font-size: 100px;
-}
-
-h3 {
-    font-family: Sublime-MediumItalic;
-    font-size: 32px;
-	align-content:center;
 }
